@@ -1,1 +1,1 @@
-# eXtended-Feed-Controller
+# eXtended Feed Controller
